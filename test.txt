@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 first change
 second change
 third change
 four change
+=======
+first change
+>>>>>>> parent of ac92877... second change
